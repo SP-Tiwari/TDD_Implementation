@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="BonusEngine.Tests.NUnit/BonusEngine.Tests.NUnit.csproj" />
+  <Project Path="BonusEngine.Tests.xUnit/BonusEngine.Tests.xUnit.csproj" />
+  <Project Path="BonusEngine/BonusEngine.csproj" />
+  <Project Path="EmployeeDataAccess.Tests.NUnit/EmployeeDataAccess.Tests.NUnit.csproj" />
+  <Project Path="EmployeeDataAccess.Tests.NUnit2/EmployeeDataAccess.Tests.NUnit2.csproj" Id="d8631aa3-ce7f-47a6-b6b6-471ae669822c" />
+  <Project Path="EmployeeDataAccess.Tests.xUnit/EmployeeDataAccess.Tests.xUnit.csproj" />
+  <Project Path="EmployeeDataAccess/EmployeeDataAccess.csproj" />
+  <Project Path="EmployeeManagement.Tests.NUnit/EmployeeManagement.Tests.NUnit.csproj" />
+  <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" />
+  <Project Path="EmployeeManagement/EmployeeManagement.csproj" />
+  <Project Path="EmployeeOnboarding.Console/EmployeeOnboarding.Console.csproj" />
+  <Project Path="EmployeeOnboarding.Core/EmployeeOnboarding.Core.csproj" />
+  <Project Path="EmployeeOnboarding.Tests.NUnit/EmployeeOnboarding.Tests.NUnit.csproj" />
+  <Project Path="EmployeeOnboarding.Tests.xUnit/EmployeeOnboarding.Tests.xUnit.csproj" />
+  <Project Path="ExternalApiClient.Tests.NUnit/ExternalApiClient.Tests.NUnit.csproj" />
+  <Project Path="ExternalApiClient.Tests.xUnit/ExternalApiClient.Tests.xUnit.csproj" />
+  <Project Path="ExternalApiClient/ExternalApiClient.csproj" />
+  <Project Path="OrderProcessing.Core/OrderProcessing.Core.csproj" />
+  <Project Path="OrderProcessing.Tests.NUnit/OrderProcessing.Tests.NUnit.csproj" />
+  <Project Path="OrderProcessing.Tests.xUnit/OrderProcessing.Tests.xUnit.csproj" />
+</Solution>
